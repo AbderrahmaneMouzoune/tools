@@ -13,11 +13,14 @@ Ce repo fait une liste exhaustive de tous les outils utiles pour ma vie de tout 
 ## Back-end
 - [Strapi, Headless CMS](https://strapi.io "Strapi, Headless CMS")
 - [Pocketbase, Database management](https://pocketbase.io/ "Pocketbase, Database management")
+
+## Self hosted
+- [Coolify, outil de déploiement automatique](https://coolify.io "Coolify, outil de déploiement automatique")
 - [Nginx proxy manager, Hyper puissant pour gérer ses SSL, et faire le proxy avec ses container docker](https://nginxproxymanager.com "Nginx proxy manager, Hyper puissant pour gérer ses SSL, et faire le proxy avec ses container docker")
+- [Strapi, Headless CMS](https://strapi.io "Strapi, Headless CMS")
 
 ## Open source
 - [Versions alternative opensource de projet connu](https://openalternative.co "Versions alternative opensource de projet connu")
-- [Coolify, outil de déploiement automatique](https://coolify.io "Coolify, outil de déploiement automatique")
 
 ## Outils divers
 - [Visual site builder React + Tailwind](https://www.reweb.so "Visual site builder React + Tailwind")
