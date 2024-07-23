@@ -10,7 +10,8 @@ Ce repo fait une liste exhaustive de tous les outils utiles pour ma vie de tout 
 - [Création de palette de couleurs](https://www.realtimecolors.com/?colors=030608-f6fafc-4299d1-87c2e9-51ade9&fonts=Inter-Inter "Création de palette de couleurs")
 - [v0, utile pour un premier jet d'ui](https://v0.dev "v0, utile pour un premier jet d'ui")
 - [MagicUi](https://magicui.design/)
-- [Collections de hooks](https://react-hooked.vercel.app)
+- [React Hooked, Collections de hooks](https://react-hooked.vercel.app)
+- [useHooks, Collections de hooks](https://usehooks.com)
 
 ## Back-end
 - [Strapi, Headless CMS](https://strapi.io "Strapi, Headless CMS")
