@@ -29,6 +29,7 @@ Ce repo fait une liste exhaustive de tous les outils utiles pour ma vie de tout 
 
 ## Outils divers
 - [Visual site builder React + Tailwind](https://www.reweb.so "Visual site builder React + Tailwind")
+- [Favicon Generator](https://realfavicongenerator.net)
 
 ## Pour RH
 - [CV Creator online](https://read.cv/sites/about "CV Creator online")
