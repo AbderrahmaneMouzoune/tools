@@ -12,6 +12,7 @@ Ce repo fait une liste exhaustive de tous les outils utiles pour ma vie de tout 
 - [MagicUi](https://magicui.design/)
 - [React Hooked, Collections de hooks](https://react-hooked.vercel.app)
 - [useHooks, Collections de hooks](https://usehooks.com)
+- [Simple animation tailwind](https://rombo.co/tailwind/)
 
 ## Back-end
 - [Strapi, Headless CMS](https://strapi.io "Strapi, Headless CMS")
