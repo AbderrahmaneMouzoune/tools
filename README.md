@@ -13,6 +13,7 @@ Ce repo fait une liste exhaustive de tous les outils utiles pour ma vie de tout 
 - [React Hooked, Collections de hooks](https://react-hooked.vercel.app)
 - [useHooks, Collections de hooks](https://usehooks.com)
 - [Simple animation tailwind](https://rombo.co/tailwind/)
+- [Genere des vagues svg simplement](https://getwaves.io)
 
 ## Back-end
 - [Strapi, Headless CMS](https://strapi.io "Strapi, Headless CMS")
