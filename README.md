@@ -28,6 +28,7 @@ Ce repo fait une liste exhaustive de tous les outils utiles pour ma vie de tout 
 
 ## Open source
 - [Versions alternative opensource de projet connu](https://openalternative.co "Versions alternative opensource de projet connu")
+- [streamlinehq, icone et illustrations](https://www.streamlinehq.com/)
 
 ## Outils divers
 - [Visual site builder React + Tailwind](https://www.reweb.so "Visual site builder React + Tailwind")
