@@ -14,6 +14,7 @@ Ce repo fait une liste exhaustive de tous les outils utiles pour ma vie de tout 
 - [useHooks, Collections de hooks](https://usehooks.com)
 - [Simple animation tailwind](https://rombo.co/tailwind/)
 - [Genere des vagues svg simplement](https://getwaves.io)
+- [OriginUI, layout & block](https://originui.com)
 
 ## Back-end
 - [Strapi, Headless CMS](https://strapi.io "Strapi, Headless CMS")
