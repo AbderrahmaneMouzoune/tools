@@ -38,5 +38,9 @@ Ce repo fait une liste exhaustive de tous les outils utiles pour ma vie de tout 
 ## Pour RH
 - [CV Creator online](https://read.cv/sites/about "CV Creator online")
 
+## SaaS
+- [Crisp, Chatbot pour service client avec application mobile](https://crisp.chat/fr/)
+- [Resend, Envoi d'email, suivi & tracking](https://resend.com/emails)
+
 ## AWS 
 - [Création d'architecture + estimation prix de base](https://www.cloudcraft.co, "Creation de schema/architecture")
