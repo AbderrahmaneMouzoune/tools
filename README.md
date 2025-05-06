@@ -15,6 +15,7 @@ Ce repo fait une liste exhaustive de tous les outils utiles pour ma vie de tout 
 - [Simple animation tailwind](https://rombo.co/tailwind/)
 - [Genere des vagues svg simplement](https://getwaves.io)
 - [OriginUI, layout & block](https://originui.com)
+- [Data filter, Data table avec un filtrage préfait](https://ui.bazza.dev/docs/data-table-filter)
 
 ## Back-end
 - [Strapi, Headless CMS](https://strapi.io "Strapi, Headless CMS")
