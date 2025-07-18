@@ -19,6 +19,7 @@ Ce repo fait une liste exhaustive de tous les outils utiles pour ma vie de tout 
 ### Animation
 - [Number Flow, Animation de nombre](https://number-flow.barvian.me)
 - [Simple animation tailwind](https://rombo.co/tailwind/)
+- [Animation on shadcn](https://animate-ui.com/docs/radix/accordion)
 
 ## Back-end
 - [Strapi, Headless CMS](https://strapi.io "Strapi, Headless CMS")
