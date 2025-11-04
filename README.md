@@ -46,6 +46,7 @@ Ce repo fait une liste exhaustive de tous les outils utiles pour ma vie de tout 
 ## SaaS
 - [Crisp, Chatbot pour service client avec application mobile](https://crisp.chat/fr/)
 - [Resend, Envoi d'email, suivi & tracking](https://resend.com/emails)
+- [Ahref, SEO monitoring + audit, parfait pour s'assurer que son site soit bien référencé](https://ahrefs.com/)
 
 ## AWS 
 - [Création d'architecture + estimation prix de base](https://www.cloudcraft.co, "Creation de schema/architecture")
