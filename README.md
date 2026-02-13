@@ -13,7 +13,7 @@ Ce repo fait une liste exhaustive de tous les outils utiles pour ma vie de tout 
 - [React Hooked, Collections de hooks](https://react-hooked.vercel.app)
 - [useHooks, Collections de hooks](https://usehooks.com)
 - [Genere des vagues svg simplement](https://getwaves.io)
-- [OriginUI, layout & block](https://originui.com)
+- [OriginUI, layout & block](https://coss.com/origin)
 - [Data filter, Data table avec un filtrage préfait](https://ui.bazza.dev/docs/data-table-filter)
 - [Registry.directory, Liste de plusieurs registry](https://registry.directory)
 
