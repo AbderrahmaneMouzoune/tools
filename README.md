@@ -16,6 +16,7 @@ Ce repo fait une liste exhaustive de tous les outils utiles pour ma vie de tout 
 - [OriginUI, layout & block](https://coss.com/origin)
 - [Data filter, Data table avec un filtrage préfait](https://ui.bazza.dev/docs/data-table-filter)
 - [Registry.directory, Liste de plusieurs registry](https://registry.directory)
+- [Mediabunny, Librairie JS pour gérer l'upload, la lecture et la conversion d'images/vidéos côté client](https://mediabunny.dev/ "Mediabunny, Librairie JS pour gérer l'upload d'images/vidéos")
 
 ### Animation
 - [Number Flow, Animation de nombre](https://number-flow.barvian.me)
