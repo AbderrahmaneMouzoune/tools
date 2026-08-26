@@ -26,12 +26,14 @@ Ce repo fait une liste exhaustive de tous les outils utiles pour ma vie de tout 
 - [Strapi, Headless CMS](https://strapi.io "Strapi, Headless CMS")
 - [Pocketbase, Database management](https://pocketbase.io/ "Pocketbase, Database management")
 - [Directus, Headless CMS](https://directus.io)
+- [Payload, Headless CMS TypeScript-first](https://payloadcms.com "Payload, Headless CMS TypeScript-first")
 
 ## Self hosted
 - [Coolify, outil de déploiement automatique](https://coolify.io "Coolify, outil de déploiement automatique")
 - [Nginx proxy manager, Hyper puissant pour gérer ses SSL, et faire le proxy avec ses container docker](https://nginxproxymanager.com "Nginx proxy manager, Hyper puissant pour gérer ses SSL, et faire le proxy avec ses container docker")
 - [Strapi, Headless CMS](https://strapi.io "Strapi, Headless CMS")
 - [Directus, Headless CMS](https://directus.io)
+- [Payload, Headless CMS TypeScript-first](https://payloadcms.com "Payload, Headless CMS TypeScript-first")
 
 ## Open source
 - [Versions alternative opensource de projet connu](https://openalternative.co "Versions alternative opensource de projet connu")
@@ -48,6 +50,7 @@ Ce repo fait une liste exhaustive de tous les outils utiles pour ma vie de tout 
 - [Crisp, Chatbot pour service client avec application mobile](https://crisp.chat/fr/)
 - [Resend, Envoi d'email, suivi & tracking](https://resend.com/emails)
 - [Ahref, SEO monitoring + audit, parfait pour s'assurer que son site soit bien référencé](https://ahrefs.com/)
+- [Polar, Paiement & monétisation pour développeurs (facturation, licences, abonnements)](https://polar.sh "Polar, Paiement & monétisation pour développeurs")
 
 ## AWS 
 - [Création d'architecture + estimation prix de base](https://www.cloudcraft.co, "Creation de schema/architecture")
